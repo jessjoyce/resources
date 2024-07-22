@@ -3,19 +3,10 @@ Jess' Resources on the web
 
 <h2>Effective SEO in 2024</h2>
 
-
 <h4>TABLE OF CONTENTS:</h4>
     <ol>
-        <li>Tech </li>
+        <li>Tech</li>
     </ol>
-
-<ol>
-    <li>
-        <h4>EEAT</h4>
-
-        <p>
-          pre here
-
-        </p>
-    </li>
-</ol>
+		
+<h3>EEAT</h3>
+<p> Text </p>
