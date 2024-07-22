@@ -8,5 +8,7 @@ Jess' Resources on the web
         <li>Tech</li>
     </ol>
 		
-<h3>EEAT</h3>
-<p> Text </p>
+<h3>Techniacal Checks</h3>
+<p><a href="https://ahrefs.com">Ahrefs website crawler</a></p>
+<p><a href="https://semrush.com">SEMRush website crawler</a></p>
+<p><a href="https://inboundscope.com">SAAS SEO Consultants</a></p>
