@@ -6,7 +6,7 @@ Jess' Resources on the web
 
 <h4>TABLE OF CONTENTS:</h4>
     <ol>
-        <li>Tech/li>
+        <li>Tech </li>
     </ol>
 
 <ol>
@@ -16,6 +16,6 @@ Jess' Resources on the web
         <p>
           pre here
 
-        </[>
+        </p>
     </li>
 </ol>
